@@ -1,0 +1,31 @@
+/* CSS Document */
+
+
+body { 
+	background:#f2f2f2;
+	color:#fff;	
+}
+/*Selector de etiquetas*/
+h2 {
+	color:#dd0;
+}
+h1 { font-size:50px}
+
+p{ color:blue;}
+p a{ font-size:30px;}
+.green{ color:green;}
+a[href="http://www.falconmaster.com"]
+{
+	color:green;
+	font-size:30px;
+}
+
+div {
+	width:300px;
+	height:120px;
+	background:#ff8000;
+	margin:20px 50px;
+	padding:30px;
+	border:10px solid green;
+	display:inline-block;
+}
